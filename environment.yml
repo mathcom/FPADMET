@@ -1,0 +1,5 @@
+name: fpadmet
+channels:
+    - conda-forge
+dependencies:
+    - r-base
